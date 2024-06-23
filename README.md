@@ -1,1 +1,1 @@
-# Calculator_in_C
+# Calculator using C Program
